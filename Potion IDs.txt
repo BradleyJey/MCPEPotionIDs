@@ -1,0 +1,31 @@
+Night Vision 2:15   438:5
+Night Vision 6:00   438:6
+Invisibility 2:15 438:7
+Invisibility 6:00 438:8
+Jump 2:15 438:9
+Jump 6:00 438:10
+Jump II 1:07 438:11
+Fire Recistence 2:15 438:12
+Fire Recistence 6:00 438:13
+Swiftness 2:15 438:14
+Swiftness 6:00 438:15
+Swiftness II 1:07 438:16
+Slowness 1:07 438:17
+Slowness 3:00 438:18
+Water Breathing 2:15 438:19
+Water Breathing 6:00 438:20
+Instant Health 438:21
+Instant Health II 438:22
+Instant Damage 438:23
+Instant Damage II 438:24 
+Poison 0:33 438:25
+Poison 1:30 438:26
+Poison II 16 438:27
+Regen 0:33 438:28
+Regen 1:20 438:29
+Regen II 0:16 438:30
+Strenght 2:15 438:31 
+Strenght 6:00 438:32
+Strenght II 1:07 438:33
+Weakness 1:07 438:34
+Weakness 3:00 438:35
